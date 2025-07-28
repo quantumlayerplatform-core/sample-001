@@ -1,0 +1,64 @@
+{
+  "capsuleID": "capsule-gen-1f3da508-7266-429e-8cfc-5c3916bcf455",
+  "components": {
+    "buildConfigs": 0,
+    "configurations": 1,
+    "dependencies": 1,
+    "deployment": 2,
+    "documentation": 1,
+    "scripts": 1,
+    "sourceFiles": 22,
+    "tests": 4
+  },
+  "files": [
+    "app/models/models.py",
+    "app/models/repositories.py",
+    "app/models/0001_initial.py",
+    "app/models/__init__.py",
+    "app/routes/routes.py",
+    "app/services/main.py",
+    "app/routes/user_handler.py",
+    "app/models/user_service.py",
+    "app/models/auth_service.py",
+    "src/database.py",
+    "app/models/user.py",
+    "app/routes/app.py",
+    "src/python app.py",
+    "app/routes/views.py",
+    "static/main.css",
+    "templates/index.html",
+    "app/models/db.py",
+    "app/models/schema.sql",
+    ".github/workflows/ci.yml",
+    ".env",
+    "src/monitoring.py",
+    "security.md",
+    "requirements.txt",
+    "docs/README.md",
+    "tests/conftest.py",
+    "tests/test_auth.py",
+    "tests/test_api_endpoints.py",
+    "tests/test_database_operations.py",
+    "deployment_guide.txt",
+    "Dockerfile",
+    "src/run.py",
+    "src/logging_config.py"
+  ],
+  "metadata": {
+    "author": "QuantumLayer User",
+    "generatedBy": "QuantumLayer Platform",
+    "requestID": "gen-1f3da508-7266-429e-8cfc-5c3916bcf455",
+    "version": "1.0.0"
+  },
+  "project": {
+    "description": "Create a Python Flask REST API with JWT authentication and PostgreSQL",
+    "features": [
+      "REST API",
+      "JWT authentication"
+    ],
+    "framework": "Flask",
+    "language": "python",
+    "name": "gen-1f3da508-7266-429e-8cfc-5c3916bcf455",
+    "type": ""
+  }
+}

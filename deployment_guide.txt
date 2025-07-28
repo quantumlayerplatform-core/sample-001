@@ -1,0 +1,5 @@
+# Deployment Guide
+
+## Local Deployment
+1. Ensure Python 3 and pip are installed.
+2. Install the required Python packages:
